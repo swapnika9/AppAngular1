@@ -1,0 +1,12 @@
+#icon{
+    color: white;
+}
+#icon:hover{
+    color: red;
+}
+.footer{
+    position:absolute;
+    clear: both;
+    width: 100%;
+    margin-top: -110px;
+}
